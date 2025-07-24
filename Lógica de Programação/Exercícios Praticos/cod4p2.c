@@ -11,6 +11,7 @@ int main() {
    while (contador <= limite) {
       printf("%d ", contador);
       printf("Estamos no primeiro Loop!\n");
+      printf("-------------\n"); 
       printf("-------------\n");
       if  (contador == 3){
 

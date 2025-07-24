@@ -1,0 +1,6 @@
+{
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "diffEditor.codeLens": true,
+    "editor.mouseWheelZoom": true
+}
