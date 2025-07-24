@@ -21,6 +21,6 @@ int main() {
 
     printf("....\n");   
     printf("\n");
-    _
+    
     return 0;
 }
